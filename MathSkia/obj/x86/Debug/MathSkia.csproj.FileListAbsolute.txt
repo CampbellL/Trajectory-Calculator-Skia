@@ -1,0 +1,16 @@
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/bin/Debug/MathSkia.exe
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/bin/Debug/MathSkia.pdb
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/bin/Debug/SkiaSharp.dll
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/bin/Debug/SkiaSharp.xml
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/MathSkia.csprojAssemblyReference.cache
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/MathSkia.csproj.CoreCompileInputs.cache
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/MathSkia.csproj.CopyComplete
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/MathSkia.exe
+/Users/campbelllouis/RiderProjects/AFPO/MathSkia/MathSkia/obj/x86/Debug/MathSkia.pdb

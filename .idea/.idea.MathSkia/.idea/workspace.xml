@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fce2452-5fb4-4194-ac40-502c686808fc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MathSkia/ViewController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+              <folding>
+                <marker date="1561010154807" expanded="true" signature="6:123" ph="..." />
+                <marker date="1561010154807" expanded="true" signature="143:1502" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="204:1500" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="357:377" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="426:459" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="503:644" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="694:1216" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="806:1172" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="889:1017" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="1053:1158" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="1276:1494" ph="{...}" />
+                <marker date="1561010154807" expanded="true" signature="1353:1484" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSkia/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+              <folding>
+                <marker date="1560942214832" expanded="true" signature="33:208" ph="{...}" />
+                <marker date="1560942214832" expanded="true" signature="62:206" ph="{...}" />
+                <marker date="1560942214832" expanded="true" signature="108:200" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSkia/Classes/DrawHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-103">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="43" />
+              <folding>
+                <marker date="1560970108498" expanded="true" signature="6:62" ph="..." />
+                <marker date="1560970108498" expanded="true" signature="90:1820" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="121:1818" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="166:177" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="204:386" ph="/// Convert the Image sketch to a png encoded SkiaSharp data object. ... " />
+                <marker date="1560970108498" expanded="true" signature="437:1234" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="489:656" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="909:1223" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="1283:1316" ph="{...}" />
+                <marker date="1560970108498" expanded="true" signature="1325:1496" ph="/// Convert the Image sketch to a bitmap image. ... " />
+                <marker date="1560970108498" expanded="true" signature="1543:1811" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MathSkia/Classes/ProjectilePhysics.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-135">
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="23" selection-end-column="78" />
+              <folding>
+                <marker date="1561009999437" expanded="true" signature="6:46" ph="..." />
+                <marker date="1561009999437" expanded="true" signature="74:1972" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="100:276" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="140:208" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="311:1970" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="794:921" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="960:1101" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="1178:1242" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="1289:1684" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="1337:1613" ph="{...}" />
+                <marker date="1561009999437" expanded="true" signature="1773:1964" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MathSkia/ViewController.designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathSkia/ViewController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathSkia/Classes/DrawHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathSkia/Classes/ProjectilePhysics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///Library/Frameworks/Xamarin.Mac.framework/Versions/5.10.0.153/src/Xamarin.Mac/AppKit/NSApplication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MathSkia/Main.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MathSkia/ViewController.designer.cs" />
+        <option value="$PROJECT_DIR$/MathSkia/Main.cs" />
+        <option value="$PROJECT_DIR$/MathSkia/Classes/DrawHandler.cs" />
+        <option value="$PROJECT_DIR$/MathSkia/Classes/ProjectilePhysics.cs" />
+        <option value="$PROJECT_DIR$/MathSkia/ViewController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1177" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MathSkia" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="MathSkia" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MathSkia" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Mac Default" type="XamarinMacProject" factoryName="Xamarin.Mac">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/MathSkia/MathSkia.csproj" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MathSkia/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fce2452-5fb4-4194-ac40-502c686808fc" name="Default Changelist" comment="" />
+      <created>1560942216050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560942216050</updated>
+      <workItem from="1560942217846" duration="19000" />
+      <workItem from="1560942239243" duration="21000" />
+      <workItem from="1560942569795" duration="4835000" />
+      <workItem from="1560958371592" duration="10929000" />
+      <workItem from="1561009370975" duration="2440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18244000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="3440" height="1417" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14184815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32981133" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Xcode" order="15" weight="0.32981133" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.32830188" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MathSkia/Main.storyboard">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Xamarin.Mac.framework/Versions/5.10.0.153/src/Xamarin.Mac/AppKit/NSApplication.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="99" column="12" selection-start-line="99" selection-start-column="12" selection-end-line="99" selection-end-column="12" />
+          <folding>
+            <marker date="1560678465904" expanded="true" signature="0:1148" ph="/* Copyright 2010, Novell, Inc. ... */" />
+            <marker date="1560678465904" expanded="true" signature="1306:5823" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="1358:5821" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="1621:1676" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="1874:2956" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="1899:2009" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="2107:2382" ph="/* Runtime hosts embedding MonoMac may use a different sync context ... */" />
+            <marker date="1560678465904" expanded="true" signature="2525:2618" ph="/* Establish the main thread at the time of Init to support hosts ... */" />
+            <marker date="1560678465904" expanded="true" signature="2675:2816" ph="/* Launcher sets this to work around https://bugzilla.xamarin.com/show_bug.cgi?id=45279 ... */" />
+            <marker date="1560678465904" expanded="true" signature="2881:2952" ph="/* TODO: ... */" />
+            <marker date="1560678465904" expanded="true" signature="2999:3442" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="3486:4024" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="3800:3925" ph="/* Init where this is set the first time is generally paired ... */" />
+            <marker date="1560678465904" expanded="true" signature="4063:4222" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="4315:4629" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="4786:5280" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="5347:5406" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="5571:5579" ph="{...}" />
+            <marker date="1560678465904" expanded="true" signature="5697:5818" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSkia/ViewController.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <marker date="1560945962995" expanded="true" signature="0:229" ph="/* WARNING ... */" />
+            <marker date="1560945962995" expanded="true" signature="236:278" ph="..." />
+            <marker date="1560945962995" expanded="true" signature="298:808" ph="{...}" />
+            <marker date="1560945962995" expanded="true" signature="361:806" ph="{...}" />
+            <marker date="1560945962995" expanded="true" signature="561:803" ph="{...}" />
+            <marker date="1560945962995" expanded="true" signature="592:646" ph="{...}" />
+            <marker date="1560945962995" expanded="true" signature="671:719" ph="{...}" />
+            <marker date="1560945962995" expanded="true" signature="746:798" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSkia/Classes/ProjectilePhysics.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="23" selection-end-column="78" />
+          <folding>
+            <marker date="1561009999437" expanded="true" signature="6:46" ph="..." />
+            <marker date="1561009999437" expanded="true" signature="74:1972" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="100:276" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="140:208" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="311:1970" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="794:921" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="960:1101" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="1178:1242" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="1289:1684" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="1337:1613" ph="{...}" />
+            <marker date="1561009999437" expanded="true" signature="1773:1964" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSkia/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <marker date="1560942214832" expanded="true" signature="33:208" ph="{...}" />
+            <marker date="1560942214832" expanded="true" signature="62:206" ph="{...}" />
+            <marker date="1560942214832" expanded="true" signature="108:200" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSkia/Classes/DrawHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-103">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="43" />
+          <folding>
+            <marker date="1560970108498" expanded="true" signature="6:62" ph="..." />
+            <marker date="1560970108498" expanded="true" signature="90:1820" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="121:1818" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="166:177" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="204:386" ph="/// Convert the Image sketch to a png encoded SkiaSharp data object. ... " />
+            <marker date="1560970108498" expanded="true" signature="437:1234" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="489:656" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="909:1223" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="1283:1316" ph="{...}" />
+            <marker date="1560970108498" expanded="true" signature="1325:1496" ph="/// Convert the Image sketch to a bitmap image. ... " />
+            <marker date="1560970108498" expanded="true" signature="1543:1811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MathSkia/ViewController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+          <folding>
+            <marker date="1561010154807" expanded="true" signature="6:123" ph="..." />
+            <marker date="1561010154807" expanded="true" signature="143:1502" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="204:1500" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="357:377" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="426:459" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="503:644" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="694:1216" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="806:1172" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="889:1017" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="1053:1158" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="1276:1494" ph="{...}" />
+            <marker date="1561010154807" expanded="true" signature="1353:1484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
